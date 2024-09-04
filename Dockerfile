@@ -1,6 +1,6 @@
 FROM python:3.11.2-bullseye
 
-EXPOSE 8080
+EXPOSE 10000
 
 WORKDIR /phoenixc2
 
