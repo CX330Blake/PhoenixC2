@@ -1,5 +1,5 @@
 [web]
-address = "localhost"
+address = "0.0.0.0"
 port = 8080
 ssl = true
 secret_key = ""
@@ -12,7 +12,7 @@ type = "sqlite"
 sqlite_name = "default"
 user = "phoenix"
 pass = "YourS3cuReP4ss"
-host = "localhost"
+host = "0.0.0.0"
 port = 3306
 database = "PhoenixC2"
 
