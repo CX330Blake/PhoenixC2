@@ -192,7 +192,7 @@ class Stager(BaseStager):
                 real_name="proxy_port",
                 description="The port of a proxy to use.",
                 type=IntegerType(),
-                default=10000,
+                default=8080,
             ),
             Option(
                 name="Proxy authentication",
