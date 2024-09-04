@@ -2606,7 +2606,7 @@
                 {
                     "key": "session",
                     "value": "eyJhcGlfa2V5IjoiMTkxN2MyODItY2E4Zi0xMWVkLTk0ZTMtMDA1MDU2YzAwMDAwIn0.ZB4dNA.QdvluR6yxkKNHjMPKQWwx6zN4aE",
-                    "domain": "localhost",
+                    "domain": "0.0.0.0",
                     "path": "/",
                     "httpOnly": true,
                     "hostOnly": true,
@@ -2619,7 +2619,7 @@
                     "value": "1",
                     "expires": "2033-01-27T13:59:59.000Z",
                     "maxAge": 315360000,
-                    "domain": "localhost",
+                    "domain": "0.0.0.0",
                     "path": "/",
                     "hostOnly": true,
                     "creation": "2023-01-06T09:56:05.188Z",
@@ -2669,7 +2669,7 @@
             "name": "PhoenixC2",
             "data": {
                 "protocol": "http",
-                "host": "localhost:8080",
+                "host": "0.0.0.0:8080",
                 "id": "1"
             },
             "dataPropertyOrder": { "&": ["protocol", "host", "id"] },

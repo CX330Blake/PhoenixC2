@@ -60,7 +60,7 @@ poetry install
 poetry run phserver
 ```
 
-The Web-Interface is available at [http://localhost:8080](http://localhost:8080) by default.
+The Web-Interface is available at [http://0.0.0.0:8080](http://0.0.0.0:8080) by default.
 
 ### Start the client
 
